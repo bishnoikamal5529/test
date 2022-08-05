@@ -1,7 +1,6 @@
 {
   "name": "solution",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,15 @@
     "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.21.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bishnoikamal5529/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bishnoikamal5529/test/issues"
+  },
+  "homepage": "https://github.com/bishnoikamal5529/test#readme",
+  "description": ""
 }
