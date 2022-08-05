@@ -1,3 +1,5 @@
+// git hub successfully workinh
+
 const Sequelize = require('sequelize');
 
 var sequelize = new Sequelize('d8i3ub9p28islf', 'ylimdvzzszwgcp', '02bbcb67f6759a7578229843206f251eaca011c11ee9ac3d8bdb8fc4912febee', {
